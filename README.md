@@ -6,3 +6,4 @@ This is a project designed to make understanding and navigating US government ag
 
 * Build and style next tree level
 * Begin integrating clipboard.html w/ index
+* Make it HTML5 semantic
